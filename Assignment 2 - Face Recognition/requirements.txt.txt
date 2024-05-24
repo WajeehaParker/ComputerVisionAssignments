@@ -1,0 +1,4 @@
+pip install opencv-python-headless numpy
+pip install cmake	#make sure to have windows sdk 8.1 and linux environment for c++ (through VS)
+pip install dlib
+pip install face_recognition
